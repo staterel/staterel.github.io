@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://staterel.github.io/sitemap.html.gz
+Sitemap: https://staterel.github.io/app/sitemap.html.gz
+Sitemap: https://staterel.github.io/assets/sitemap.html.gz
+Sitemap: https://staterel.github.io/css/sitemap.html.gz
+Sitemap: https://staterel.github.io/includes/sitemap.html.gz
+Sitemap: https://staterel.github.io/item/sitemap.html.gz
+Sitemap: https://staterel.github.io/src/sitemap.html.gz
